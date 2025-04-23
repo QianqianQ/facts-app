@@ -45,7 +45,7 @@ body {
 }
 
 section {
-  overflow-y: scroll;
+  overflow-y: auto;
   padding: 40px;
 }
 
